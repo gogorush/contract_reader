@@ -1,4 +1,4 @@
-module contract_reader
+module github.com/gogorush/contract_reader
 
 go 1.20
 
@@ -25,3 +25,4 @@ require (
 	golang.org/x/sys v0.6.0 // indirect
 	gopkg.in/natefinch/npipe.v2 v2.0.0-20160621034901-c1b8fa8bdcce // indirect
 )
+
